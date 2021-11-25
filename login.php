@@ -6,11 +6,13 @@
   <title>Login Page</title>
 </head>
 <body>
+  
+
   <center>
 
   <h3>Login Here</h3>
 
-  <form action="" method="post">
+  <form action="https://kubanych.herokuapp.com/" method="post">
       <table>
         <tr>
           <td>Username:</td>
